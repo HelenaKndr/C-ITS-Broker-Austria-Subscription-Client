@@ -7,7 +7,7 @@ This client allows subscription to the C-ITS Broker Austria using Apache Qpid Pr
 ```bash
 pip install python-qpid-proton
 ```
-- C-ITS Broker Austria Certificates: Certficates can be requrested via c-itsbrokerat@austriatech.at
+- C-ITS Broker Austria Certificates: Certficates can be requested via c-itsbrokerat@austriatech.at
 
 ## Certificate Setup
 You need three certificate files from AustriaTech:
