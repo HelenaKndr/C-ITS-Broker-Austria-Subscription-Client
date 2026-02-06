@@ -1,0 +1,7 @@
+services:
+  amqp_client:
+    build: amqp_client
+    restart: unless-stopped
+    environment:
+      - TZ=Europe/Vienna
+  
